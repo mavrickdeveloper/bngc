@@ -41,7 +41,7 @@
     "react-native-macos": "^0.61.0-0",
     "react-native-macos-init": "^2.1.0",
     "react-native-material-kit": "^0.6.0-beta.1",
-    "react-native-reanimated": "^1.9.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-safe-area-context": "^3.0.2",
     "react-native-screens": "^2.8.0",
     "react-native-smooth-pincode-input": "^1.0.9",
